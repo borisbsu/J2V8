@@ -1,7 +1,6 @@
 J2V8
 ====
 
-
 [![Build Status](https://secure.travis-ci.org/eclipsesource/J2V8.png)](http://travis-ci.org/eclipsesource/J2V8)
 [![Maven Central](https://img.shields.io/maven-central/v/com.eclipsesource.j2v8/j2v8_win32_x86.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.eclipsesource.j2v8%22)
 
